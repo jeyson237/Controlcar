@@ -1,0 +1,1 @@
+// El panel ya está embebido en app.js

@@ -1,0 +1,1 @@
+// La lista ya está embebida en app.js
